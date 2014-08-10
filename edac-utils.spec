@@ -87,7 +87,6 @@ rm -rf $RPM_BUILD_ROOT
 %files devel
 %defattr(644,root,root,755)
 %{_libdir}/libedac.so
-%{_libdir}/libsysfs.la
 %{_includedir}/edac.h
 %{_mandir}/man3/edac.3*
 
