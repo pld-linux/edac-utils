@@ -5,7 +5,7 @@ Version:	0.16
 Release:	1
 License:	GPL v2
 Group:		Applications/System
-Source0:	http://downloads.sourceforge.net/linux-diag/%{name}-%{version}.tar.bz2
+Source0:	http://downloads.sourceforge.net/edac-utils/%{name}-%{version}.tar.bz2
 # Source0-md5:	77dda84f25ddba732da1d94fe357bf87
 URL:		http://sourceforge.net/projects/edac-utils/
 BuildRequires:	autoconf
