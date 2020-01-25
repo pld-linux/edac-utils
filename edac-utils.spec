@@ -1,5 +1,4 @@
 # TODO: PLDify init script
-%include	/usr/lib/rpm/macros.perl
 Summary:	Userspace helper for Linux kernel EDAC drivers (ECC)
 Summary(pl.UTF-8):	Narzędzia pomocnicze sterownika EDAC (ECC)
 Name:		edac-utils
